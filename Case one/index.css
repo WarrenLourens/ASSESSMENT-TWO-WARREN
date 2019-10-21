@@ -1,0 +1,34 @@
+.MainBorder{
+    height: 100%;
+    width:100%;
+    border: double black;
+}
+.boxOne{
+    height: 200px;
+    width: 200px;
+    border: solid green;
+    background-color: blue;
+    top: 0px;
+    right: 0px;
+}
+.boxTwo{
+    height: 200px;
+    width: 200px;
+    border: solid pink;
+    background-color: yellow;
+    bottom: 0px;
+    right: 0px;
+}
+.boxThree{
+    height: 200px;
+    width: 200px;
+    border: solid orangered;
+    background-color: firebrick;
+}
+.boxFour{
+    height: 200px;
+    width: 200px;
+    border: solid red;
+    background-color:teal;
+    
+}
