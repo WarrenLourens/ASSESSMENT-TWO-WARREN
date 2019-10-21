@@ -4,31 +4,43 @@
     border: double black;
 }
 .boxOne{
+    position:absolute;
     height: 200px;
     width: 200px;
     border: solid green;
     background-color: blue;
     top: 0px;
-    right: 0px;
+    right:0px;
+    margin: 30px;
 }
 .boxTwo{
+    position:absolute;
     height: 200px;
     width: 200px;
     border: solid pink;
     background-color: yellow;
     bottom: 0px;
     right: 0px;
+    margin: 30px;
 }
 .boxThree{
+    position:absolute;
     height: 200px;
     width: 200px;
     border: solid orangered;
     background-color: firebrick;
+    margin: 30px;
 }
 .boxFour{
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
     height: 200px;
     width: 200px;
     border: solid red;
     background-color:teal;
-    
+    margin: 30px;
+}
+.TxtMsg{
+    margin: 0 auto;
 }
