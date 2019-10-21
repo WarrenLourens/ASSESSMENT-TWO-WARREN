@@ -1,0 +1,44 @@
+.MainBorder{
+    height: 100%;
+    width:100%;
+    border: double black;
+}
+.boxOne{
+
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    background-color: blue;
+}
+.boxTwo{
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    background-color: yellow;
+
+}
+.boxThree{
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    background-color: firebrick;
+}
+.boxFour{
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    background-color:teal;
+    
+}
+.TxtMsg{
+    margin: 0 auto;
+    text-align: center;
+  
+}
+.bigBox{
+    margin: 0 auto;
+height: 410px;
+width: 410px;   
+    border: solid black;
+
+}
